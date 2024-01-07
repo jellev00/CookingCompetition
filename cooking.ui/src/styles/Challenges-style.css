@@ -1,0 +1,67 @@
+.Challenges {
+    display: flex;
+    align-items: center;
+    z-index: -1;
+}
+
+.ChallengeMain {
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    margin: 100px;
+}
+
+.ChallengesText {
+    width: 250px;
+}
+
+.Action-btn-2 {
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-color: #0587C7;
+    border: none;
+    border-radius: 25px;
+}
+
+.btn-txt-2 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.month {
+    font-weight: 300;
+}
+
+.BeginText {
+    color: #516975;
+}
+
+.ChallengeTitle {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.ChallengeRecipe {
+    z-index: -1;
+    margin: -250px;
+    width: 100vw;
+    height: 400px;
+    border-radius: 50px;
+}
+
+.ChallengeRecipeMain {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 30px;
+    width: 100vw;
+    height: 400px;
+    margin: 0 0 0 180px;
+}

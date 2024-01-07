@@ -1,0 +1,362 @@
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets\msbuild.Cooking.REST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets\msbuild.build.Cooking.REST.props
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cooking.REST.props
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cooking.REST.props
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\appsettings.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\appsettings.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.EF.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.EF.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\appsettings.Development.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\appsettings.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.REST.exe
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.REST.deps.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.REST.runtimeconfig.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.REST.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.BL.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.EF.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.BL.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Cooking.EF.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.AssemblyReference.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfoInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.AssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CoreCompileInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.MvcApplicationPartsAssemblyInfo.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\staticwebassets.build.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\staticwebassets.development.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\scopedcss\bundle\Cooking.REST.styles.css
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.csproj.CopyComplete
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\refint\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\Cooking.REST.genruntimeconfig.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\obj\Debug\net6.0\ref\Cooking.REST.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.Extensions.Logging.File.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.Sinks.Async.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Cooking.REST\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.Extensions.Logging.File.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.Sinks.Async.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.EF.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.REST\bin\Debug\net6.0\Cooking.EF.pdb

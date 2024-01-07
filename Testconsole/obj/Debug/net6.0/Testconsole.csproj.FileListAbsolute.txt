@@ -1,0 +1,122 @@
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Testconsole.exe
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Testconsole.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Testconsole.runtimeconfig.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Testconsole.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Testconsole.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Cooking.EF.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Cooking.EF.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\refint\Testconsole.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\Testconsole.genruntimeconfig.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Testconsole\obj\Debug\net6.0\ref\Testconsole.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Testconsole.exe
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Testconsole.deps.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Testconsole.runtimeconfig.json
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Testconsole.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Testconsole.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Cooking.BL.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Cooking.EF.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Cooking.EF.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\bin\Debug\net6.0\Cooking.BL.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.csproj.AssemblyReference.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.AssemblyInfoInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.AssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.csproj.CoreCompileInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.csproj.CopyComplete
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\refint\Testconsole.dll
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.pdb
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\Testconsole.genruntimeconfig.cache
+D:\Hogent\Semester_3\Projectwerk\Groepsopdracht - Test\Cooking-Competition_Begin_2024\Testconsole\obj\Debug\net6.0\ref\Testconsole.dll

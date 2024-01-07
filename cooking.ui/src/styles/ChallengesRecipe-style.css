@@ -1,0 +1,20 @@
+.ChallengesRecipeContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 350px;
+    background-color: #FFFFFF90;
+    border-radius: 50px;
+}
+
+.RecipeIMG {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    background-color: #FFFFFF;
+}

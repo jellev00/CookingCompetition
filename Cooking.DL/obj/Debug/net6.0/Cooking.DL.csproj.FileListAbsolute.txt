@@ -1,0 +1,90 @@
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.deps.json
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\refint\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\6 - Solutions\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\ref\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\refint\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\ref\Cooking.DL.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.deps.json
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.pdb
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.pdb
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.AssemblyReference.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfoInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfo.cs
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CoreCompileInputs.cache
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CopyComplete
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\refint\Cooking.DL.dll
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.pdb
+D:\Hogent\Semester_3\Projectwerk\Main\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\ref\Cooking.DL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.deps.json
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.AssemblyReference.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfoInputs.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfo.cs
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CoreCompileInputs.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CopyComplete
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\refint\Cooking.DL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Projectwerk\groepsopdracht\Cooking-Competition\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\ref\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\bin\Debug\net6.0\Cooking.DL.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\refint\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Cooking-Competition2\Cooking.DL\obj\Debug\net6.0\ref\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.deps.json
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\bin\Debug\net6.0\Cooking.BL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.AssemblyReference.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfoInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.AssemblyInfo.cs
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CoreCompileInputs.cache
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.csproj.CopyComplete
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\refint\Cooking.DL.dll
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\Cooking.DL.pdb
+C:\Users\barbi\Documents\hogent\sem3\2 - Projectwerk (DI)\Groepsopdracht - Test\Cooking-Competition\Cooking.DL\obj\Debug\net6.0\ref\Cooking.DL.dll

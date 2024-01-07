@@ -1,0 +1,141 @@
+.JureScreen {
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    height: 90vh;
+
+    color: #FFFFFF;
+
+    /* background-color: beige; */
+}
+
+.screen-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 50vh;
+}
+
+.screen2 {
+    justify-content: space-around;
+}
+
+.screen2 p {
+    margin: 0;
+}
+
+.screen-content h1, .screen-content h2 {
+    margin: 0;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+
+.select {
+    width: 350px;
+    height: 40px;
+    padding: 10px;
+    color: #0587C7;
+    font-size: 14px;
+    font-weight: 00;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+}
+
+.challengeName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    color: #0587C7;
+    font-weight: 600;
+}
+
+.Recipe-Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ChallengesRecipeContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    background-color: #FFFFFF90;
+    box-shadow: 5px 5px #20202020;
+    border-radius: 30px;
+}
+
+.RecipeIMG {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+}
+
+.RecipeName, .RecipeDescription {
+    font-size: 12px;
+}
+
+.Icon-Like {
+    color: #39D06C;
+}
+
+.Icon-Dislike {
+    color: #d03939;
+}
+
+.navigation-buttons-stem {
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.stem {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.like {
+    border: 2px solid #39D06C;
+    background-color: #39D06C50;
+}
+
+.dislike {
+    border: 2px solid #d03939;
+    background-color: #d0393950;
+}
+
+.Action-btn-2 {
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-color: #0587C7;
+    border: none;
+    border-radius: 25px;
+    color: #FFFFFF;
+    font-size: 16px;
+}

@@ -1,0 +1,10 @@
+.Content {
+    width: 100vw;
+    height: 130vh;
+    /* background-color: #20202008; */
+    color: #516975;
+}
+
+.content-title {
+    margin:  50px 0 50px 100px;
+}

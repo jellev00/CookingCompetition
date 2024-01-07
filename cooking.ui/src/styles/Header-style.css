@@ -1,0 +1,66 @@
+.Header {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Left-section-header {
+    margin: 0 0 0 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logo {
+    width: 170px;
+    height: 30px;
+}
+
+.List {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.List-Item {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #516975;
+}
+
+.Right-section-header {
+    margin: 0 50px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 450px;
+}
+
+.Search-Bar {
+    background-color: #EDF2F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.Search-Bar-Text {
+    font-size: 14px;
+    color: #516975;
+}
+
+.Right-section-header .Icon {
+    color: #516975;
+}
+
+.Search {
+    color: #0587C7;
+}
+

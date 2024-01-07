@@ -1,0 +1,94 @@
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000
+}
+
+.popup-screen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 500px;
+}
+
+.top button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    background-color: #0587C7;
+}
+
+.Icon {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.popup-content {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    align-items: center;
+    gap: 15px;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+}
+
+.popup-content p {
+    margin: 0;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: start;
+    width: 400px;
+}
+
+.label {
+    font-size: 12px;
+}
+
+.input-box {
+    width: 394px;
+    height: 30px;
+    border: 1px solid #516975;
+    border-radius: 10px;
+    outline: none;
+}
+
+.Check {
+    color: #39D06C;
+    font-size: 80px;
+}
+
+.Arrow {
+    color: #FFFFFF;
+}

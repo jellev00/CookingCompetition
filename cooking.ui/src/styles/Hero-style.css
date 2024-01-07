@@ -1,0 +1,62 @@
+.Hero {
+    width: 100vw;
+    height: 80vh;
+}
+
+.wave {
+    position: relative;
+    width: 110vw;
+    height: 80vh;
+}
+
+.Hero-main {
+    margin: 10vh 0 0 0;
+    width: 100vw;
+    height: 80vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Left-section-hero {
+    width: 500px;
+    color: #FFFFFF;
+}
+
+.sub-txt {
+    font-weight: 200;
+}
+
+.Action-btn {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 25px;
+}
+
+.btn-txt {
+    font-size: 16px;
+    font-weight: 600;
+    color: #0587C7;
+}
+
+.Circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 600px;
+    margin: 10px 0 0 0;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
+
+.Image-cookie {
+    width: 550px;
+    height: 550px;
+}

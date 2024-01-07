@@ -1,0 +1,17 @@
+.content {
+    width: 100vw;
+    height: 90vh;
+}
+
+.wave {
+    position: relative;
+    z-index: -1;
+    width: 110vw;
+    height: 70vh;
+}
+
+.JureScreenContent {
+    position: absolute;
+    top: 10vh;
+    left: 0;
+}
